@@ -47,6 +47,7 @@ a {
     padding-top: 20px;
     padding-left: 20px;
     margin-left: 80px;
+    margin-bottom: 20px;
     color: white;
     background: rgb(241, 231, 103);
     background: -moz-linear-gradient(top, rgba(241, 231, 103, 1) 0%, rgba(254, 182, 69, 1) 100%);
@@ -74,6 +75,7 @@ a {
     padding-top: 20px;
     padding-left: 20px;
     margin-left: 80px;
+    margin-bottom: 20px;
     color: white;
     background: rgb(241, 231, 103);
     background: -moz-linear-gradient(top, rgba(241, 231, 103, 1) 0%, rgba(254, 182, 69, 1) 100%);
@@ -83,4 +85,14 @@ a {
 }
 .afx {
     margin-left: 30px;
+}
+.logo {
+    width: 50px;
+    height: 50px;
+}
+.flex {
+    display: flex;
+}
+.sploghref {
+    margin-right: 20px;
 }
